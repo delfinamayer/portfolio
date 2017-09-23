@@ -158,15 +158,33 @@ h1, h2, h3 {
   opacity: 0;
   filter: alpha(opacity=0);
 }
+
 .page-nav {
   width: 50%;
   margin: 0 auto;
   text-align: center;
 }
+
 .page-nav a,span {
   font-size: 1.3rem;
   font-family: 'Crimson Text', sans-serif;
   font-weight: 300;
   margin: 0 10px;
   color: #000;
+}
+
+.legal {
+  display: block;
+  text-align: center;
+  font-size: 10px;
+  color: #ccc;
+}
+
+.legal p {
+  margin: 0;
+}
+
+.legal a {
+  color: #ccc;
+  text-decoration: none;
 }
