@@ -10,7 +10,7 @@ additional_images:
   - images/Die_weisse_Schlange/DWS_CC.00_05_00_23.Still034.jpg
 ---
 
-Year: 2014-2015
-Production: Provobis - Gesellschaft für Film und Fernsehen
+Year: 2014–2015
+Production: Provobis — Gesellschaft für Film und Fernsehen
 Director: Stefan Bühling
 DoP: Hermann Dunzendorfer

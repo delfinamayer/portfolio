@@ -10,7 +10,7 @@ additional_images:
   - images/Nachspielzeit/NSZ_CC.00_02_06_05.Still018.jpg
 ---
 
-Year: 2013-2015
+Year: 2013–2015
 Production: Flare Film GmbH
 Director: Andreas Pieper
 DoP: Armin Dierolf

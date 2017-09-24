@@ -10,7 +10,7 @@ additional_images:
   - images/Nele_in_Berlin/150224_nele_master_h264_stereo.mp4.10_35_20_18.Still030.jpg
 ---
 
-Year: 2014-2015
+Year: 2014–2015
 Production: Sabotage films GmbH
 Director: Katinka Feistl
 DoP: Volker Tittel

@@ -10,7 +10,7 @@ additional_images:
   - images/Das_kalte_Herz/140320_AF_MASTER_h264.00_15_28_20.Still092.jpg
 ---
 
-Year: 2013-2014
-Production: Provobis - Gesellschaft für Film und Fernsehen
+Year: 2013–2014
+Production: Provobis — Gesellschaft für Film und Fernsehen
 Director: Marc-Andreas Bochert
 DoP: Hermann Dunzendorfer

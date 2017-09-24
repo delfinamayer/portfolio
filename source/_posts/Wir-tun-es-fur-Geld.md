@@ -10,7 +10,7 @@ additional_images:
   - images/Wir_tun_es_fur_Geld/WTFG_CC.00_00_18_12.Still006.jpg
 ---
 
-Year: 2013-2014
+Year: 2013–2014
 Production: Zieglerfilm Baden-Baden
 Director: Manfred Stelzer
 DoP: Namche Okon

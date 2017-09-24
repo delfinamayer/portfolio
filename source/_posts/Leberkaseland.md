@@ -10,7 +10,7 @@ additional_images:
   - images/Leberkaaseland/Leberkaseland_CC.00_04_21_01.Still030.jpg
 ---
 
-Year: 2014-2015
+Year: 2014–2015
 Production: Ziegler Film GmbH & Co. KG
 Director: Nils Willbrandt
 DoP: Peter Nix
