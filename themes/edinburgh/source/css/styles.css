@@ -188,3 +188,7 @@ h1, h2, h3 {
   color: #ccc;
   text-decoration: none;
 }
+
+.swiper-pagination-bullet {
+  background: white;
+}
