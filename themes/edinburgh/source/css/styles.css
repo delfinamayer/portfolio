@@ -193,6 +193,10 @@ h1, h2, h3 {
   background: white;
 }
 
+.nav-link {
+  white-space: nowrap;
+}
+
 h5 {
   margin: 3em 0 1em 0;
 }
