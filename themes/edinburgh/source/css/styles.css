@@ -192,3 +192,7 @@ h1, h2, h3 {
 .swiper-pagination-bullet {
   background: white;
 }
+
+h5 {
+  margin: 3em 0 1em 0;
+}

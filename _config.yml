@@ -91,9 +91,8 @@ theme: edinburgh
 
 # Header
 menu:
-  About: /about
-  Crew United: https://www.crew-united.com/?show=memberdetail&ID=328647
-  LinkedIn: https://de.linkedin.com/in/delfina-mayer-0650b0139
+  About/Contact: /about
+  Impressum: /impressum
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
