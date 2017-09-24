@@ -30,6 +30,10 @@
       <meta name="author" content="<%= config.author %>">
   <% } %>
 
+  <% if (config.keywords){ %>
+    <meta name="keywords" content="<%= config.keywords %>">
+  <% } %>
+
   <!-- Pure CSS -->
   <%- css('css/bootstrap.min.css') %>
   <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans:300,800" rel="stylesheet">

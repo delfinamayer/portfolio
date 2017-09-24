@@ -5,10 +5,25 @@
 # Site
 title: Delfina Mayer
 subtitle: Color Grading
-description: Digital colorist based in Berlin
+description: Delfina Mayer — digital colorist based in Berlin
 author: Delfina Mayer
-language:
-timezone:
+keywords:
+  - Digital Colorist
+  - Color Grading
+  - Berlin
+  - Colorgrading
+  - Video
+  - Video Editing
+  - Video Production
+  - Video Post-Production
+  - Adobe Premiere Pro
+  - Avid Media Composer
+  - Adobe After Effects
+  - Final Cut Pro
+  - Da Vinci Resolve
+  - Assimilate Scratch
+  - Cinematography
+  - Videography
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
