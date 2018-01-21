@@ -1,6 +1,6 @@
 ---
 title: Kaufland — Der Grilldiamant (Folgen 1 bis 8)
-date: 2018-01-21 22:03:21
+date: 2017-09-22 14:00:21
 cover_image: images/Kaufland/170817_Kaufland_Grilldiamant_Folge02_CZAR.00_01_34_19.Still002.jpg
 additional_images:
   - images/Kaufland/170817_Kaufland_Grilldiamant_Folge02_CZAR.00_01_47_24.Still004.jpg
