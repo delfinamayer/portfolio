@@ -93,6 +93,7 @@ theme: edinburgh
 menu:
   About/Contact: /about
   Impressum: /impressum
+  Datenschutzerklärung: /datenschutz
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
