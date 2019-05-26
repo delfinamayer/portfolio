@@ -1,5 +1,5 @@
 ---
-title: Paul Kalkbrenner — Part Eight
+title: Paul Kalkbrenner | Part Eight
 date: 2017-09-22 14:00:20
 cover_image: images/Paul_Kalkbrenner_Part_Eight/06.jpg
 additional_images:

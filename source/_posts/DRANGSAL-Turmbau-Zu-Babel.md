@@ -1,5 +1,5 @@
 ---
-title: DRANGSAL — Turmbau Zu Babel
+title: DRANGSAL | Turmbau Zu Babel
 date: 2017-09-22 14:00:15
 cover_image: images/DRANGSAL_Turmbau_Zu_Babel/02.jpg
 additional_images:

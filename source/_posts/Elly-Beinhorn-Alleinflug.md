@@ -1,5 +1,5 @@
 ---
-title: Elly Beinhorn — Alleinflug
+title: Elly Beinhorn | Alleinflug
 date: 2017-09-23 16:54:49
 cover_image: images/Alleinflug/AF_CC.00_00_22_10.Still004.jpg
 additional_images:
