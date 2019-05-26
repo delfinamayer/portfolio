@@ -1,9 +1,9 @@
 ---
 title: Armed Angels
 date: 2017-09-22 13:58:00
-cover_image: images/Armed_Angels/01.jpg
+cover_image: images/Armed_Angels/02.jpg
 additional_images:
-  - images/Armed_Angels/02.jpg
+  - images/Armed_Angels/01.jpg
   - images/Armed_Angels/03.jpg
   - images/Armed_Angels/04.jpg
   - images/Armed_Angels/05.jpg
