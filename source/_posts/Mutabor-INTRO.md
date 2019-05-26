@@ -12,3 +12,4 @@ additional_images:
 
 Year: 2019
 Directors: Shira Kela & Kieran Behan
+Editor: Delfina Mayer
