@@ -14,4 +14,4 @@ Delfina works with Da Vinci Resolve and Assimilate Scratch. You can book her int
 &nbsp;
 
 <a href="mailto: delfina.mayer@gmail.com">delfina.mayer@gmail.com</a> • +49&nbsp;176&nbsp;31581320
-<a href="https://www.crew-united.com/?show=memberdetail&ID=328647">Crew United</a> • <a href="https://de.linkedin.com/in/delfina-mayer-0650b0139">Linkedin</a> • <a href="http://www.imdb.com/name/nm4306441/">IMDb</a>
+<a href="https://www.crew-united.com/?show=memberdetail&ID=328647">Crew United</a> • <a href="https://de.linkedin.com/in/delfina-mayer-0650b0139">Linkedin</a> • <a href="http://www.imdb.com/name/nm4306441/">IMDb</a> • <a href="https://vimeo.com/delfinamayer">Vimeo</a> • <a href="https://www.instagram.com/delfinamayer_colorgrading/">Instagram</a> • <a href="https://www.facebook.com/delfina.mayer">Facebook</a>
